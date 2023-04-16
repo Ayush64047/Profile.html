@@ -27,9 +27,18 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://badgen.net/badge/Name/AyushSharma64047/FF33FF?icon=awesome&labelColor=0080FF"></a>
 
-<img src="https://badgen.net/badge/Skills/python/Red?icon=terminal&labelColor=blue"></a>
+<a><img src="https://badgen.net/badge/Skills/python/white?icon=terminal&labelColor=black">
 
-<img src="https://badgen.net/badge/Skills/javascript/Red?icon=terminal&labelColor=blue"></a>  
+<img src="https://badgen.net/badge/Skills/javascript/yellow?icon=terminal&labelColor=neon">
+
+<img src="https://badgen.net/badge/Skills/HTML5-CSS/Green?icon=terminal&labelColor=blue"></a>
+
+<img src="https://badgen.net/badge/Skills/SQL/Blue?icon=terminal&labelColor=blue"></a>
+
+<img src="https://badgen.net/badge/Skills/C++/Red?icon=terminal&labelColor=crimson"></a>
+
+<img src="https://badgen.net/badge/Skills/MySQL/pink?icon=terminal&labelColor=violet"></a>
+
 
 <a href="https://github.com/AyushSharma64047"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=Green"></a>
   
