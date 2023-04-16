@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2> <b> ... Focusing 👁️👁️🫀 ! 👨‍💻 <b>  </h2>
 
-<img src="https://github.com/Ayush64047//blob/main/Profile/New.gif" width="350px" height="200">
+<img src="https://github.com/Ayush64047//blob/main/Profile/New.gif" width="300px" height="200">
 
 # Welcome To Myh proFile!!!
 
