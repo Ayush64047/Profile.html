@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 # Welcome To Myh proFile!!!
 
-[![Generic badge](https://img.shields.io/badge/REACH-ME-@<COLOR>.svg)](https://github.com/AyushSharma64047)[![telegrambadge](https://img.shields.io/badge/Pʀᴇᴅᴀᴛᴏʀ-30302f?style=flat&logo=telegram)](https://telegram.dog/z_harbour)
+[![Generic badge](https://img.shields.io/badge/REACH-ME-@<COLOR>.svg)](https://github.com/AyushSharma64047)[![telegrambadge](https://img.shields.io/badge/Aayush-30302f?style=flat&logo=telegram)](https://telegram.dog/z_harbour)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=AyushSharma64047&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/AyushSharma64047/github-readme-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AyushSharma64047&label=Profile%20Views&color=0e75b6&style=flat" alt="AyushSharma64047" /> </p>
