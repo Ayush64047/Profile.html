@@ -11,19 +11,19 @@ Ayush64047/Ayush64047 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2> <b> ... Focusing 👁️👁️🫀 ! 👨‍💻 <b>  </h2>
+<h2><u><b>Focusin/Grindin/Hustlin like a Sigma</u></b>👁️🫀👨‍💻! </h2>
 
 
 # Welcome To Myh proFile!!!
 
-[![Generic badge](https://img.shields.io/badge/REACH-ME-@<COLOR>.svg)](https://github.com/AyushSharma64047)[![telegrambadge](https://img.shields.io/badge/Aayush-30302f?style=flat&logo=telegram)](https://telegram.dog/z_harbour)
+[![Generic badge](https://img.shields.io/badge/REACH-ME-@<COLOR>.svg)](https://github.com/AyushSharma64047)[![telegrambadge](https://img.shields.io/badge/Aayush-30302f?style=flat&logo=telegram)](https://telegram.dog/sigma_male_007)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Ayush64047&hide=prs&count_private=true&show_icons=true&theme=algolia)](https://github.com/Ayush64047/github-readme-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush64047&label=Profile%20Views&color=0e75b6&style=flat" alt="Ayush64047" /> </p>
 
 <p align="middle">
 
-<img src="https://te.legra.ph/file/5b5f873158e34c63775d5.jpg" width="800" height="345"><br>
+<img src="https://te.legra.ph/file/5b5f873158e34c63775d5.jpg" width="420" height="180"><br>
 
 <img src="https://badgen.net/badge/Name/AyushSharma64047/FF33FF?icon=awesome&labelColor=0080FF"></a>
 
@@ -60,15 +60,15 @@ You can click the Preview link to take a look at your changes.
 
 ➣ 📚 <b>Tʀʏɪɴɢ 𝟸 FaIL Bᴇᴛᴛᴇʀ || dO BeST || gReW BeSTeST</b>🤩
 
-➣ 🛡 <b>I M nOT A rObOT hENCE Sƚιʅʅ MîʂƚΑƙҽ Hαρρҽɳʂ</b>🤷‍♂️
+➣ 🛡 <b>I M nOT A rObOT hENCE SƚιʅʅY MîʂƚΑƙҽ Hαρρҽɳʂ</b>🤷‍♂️
 
 [![Generic badge](https://img.shields.io/badge/JoinTGChannel.ping-@z_harbour-RED.svg)](https://telegram.dog/z_harbour)
 
 [![Generic badge](https://img.shields.io/badge/JoinTGGroup.ping-@blackest_harbour-BLUE.svg)](https://telegram.dog/blackest_harbour)
 
-## <b> <i> <u> <big>✌️ Support Us By Joining OuR TG Channel On In Telegram!... </big> <b> <u> <i>💎
+## <b> <i> <u> <big> Join My TG Channel On In Telegram!... </big> <b> <u> <i>💎
 
-## <i> <b> One Of The Fastest Harbouring Channel in Telegram 🔥!... <i> <b>
+## <i> <b> One Of The Fastest Harbourin' Channel in Telegram 🔥!... <i> <b>
 
 
 [![Generic badge](https://img.shields.io/badge/OUR_BOTZ.ping-@Mdisk_Links_Sender_Bot-BLACK.svg)](https://telegram.dog/Mdisk_Links_Sender_Bot)
@@ -78,7 +78,7 @@ You can click the Preview link to take a look at your changes.
   
 ![🔥](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush64047&theme=github_dark&custom_title=ــــــــــــــــــہہـ٨ـہہـ٨ـﮩـــ&layout=compact&hide_border=false)  
 
-
-[![Generic badge](https://img.shields.io/badge/MyTELEGRAmBots.ping-@Mdiskbots-indigo.svg)](https://telegram.dog/mdisk_bots)
+<b> <i>
+[![Generic badge](https://img.shields.io/badge/My_TELEGRAm_Bots.ping-@Mdiskbots-indigo.svg)](https://telegram.dog/mdisk_bots) </b> </i>
 
 
