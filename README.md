@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 <h2> <b> ... Focusing 👁️👁️🫀 ! 👨‍💻 <b>  </h2>
 
-<img src="https://github.com/Ayush64047//blob/main/Profile/New.gif" width="300px" height="200">
 
 # Welcome To Myh proFile!!!
 
@@ -23,10 +22,15 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush64047&label=Profile%20Views&color=0e75b6&style=flat" alt="Ayush64047" /> </p>
 
 <p align="middle">
+
 <img src="https://te.legra.ph/file/5b5f873158e34c63775d5.jpg" width="800" height="345"><br>
+
 <img src="https://badgen.net/badge/Name/AyushSharma64047/FF33FF?icon=awesome&labelColor=0080FF"></a>
+
 <img src="https://badgen.net/badge/Skills/python/Red?icon=terminal&labelColor=blue"></a>
-  
+
+<img src="https://badgen.net/badge/Skills/javascript/Red?icon=terminal&labelColor=blue"></a>  
+
 <a href="https://github.com/AyushSharma64047"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=Green"></a>
   
 <a href="https://youtube.com/channel/UCyo2YOr51okeUIpEyM7ZGkw"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
