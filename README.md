@@ -25,32 +25,11 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://te.legra.ph/file/5b5f873158e34c63775d5.jpg" width="420" height="180"><br>
 
-<img src="https://badgen.net/badge/Name/AyushSharma64047/FF33FF?icon=awesome&labelColor=0080FF"></a>
 
-<a><img src="https://badgen.net/badge/Skills/python/blue?icon=terminal&labelColor=purple">
+  <h3 align="left">Languages & Some Learning Asset:</h3>
 
-<img src="https://badgen.net/badge/Skills/javascript/yellow?icon=terminal&labelColor=neon">
-
-<img src="https://badgen.net/badge/Skills/HTML5/green?icon=terminal&labelColor=blue">
-
-<img src="https://badgen.net/badge/Skills/CSS/Red?icon=terminal&labelColor=blue"></a>
-
-<img src="https://badgen.net/badge/Skills/SQL/yellow?icon=terminal&labelColor=orange">
-
-<img src="https://badgen.net/badge/Skills/C++/red?icon=terminal&labelColor=crimson">
-
-<img src="https://badgen.net/badge/Skills/MySQL/pink?icon=terminal&labelColor=violet"></a>
-
-<b>
-
-<a href="https://github.com/AyushSharma64047"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=Green"></a>
-  
-<a href="https://youtube.com/channel/UCyo2YOr51okeUIpEyM7ZGkw"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333">
-  
-<a href="https://twitter.com/Ayush64047"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter">
-  
-<a href="https://www.instagram.com/ossy_smarty_"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a> </b>
-  
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/Ayush64047?style=social)     ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ayush64047/)
 
@@ -81,4 +60,7 @@ You can click the Preview link to take a look at your changes.
 <b> <i>
 [![Generic badge](https://img.shields.io/badge/My_TELEGRAm_Bots.ping-@Mdiskbots-indigo.svg)](https://telegram.dog/mdisk_bots) </b> </i>
 
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush64047&" alt="Ayush64047" /></p>
 
